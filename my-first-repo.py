@@ -9,6 +9,7 @@ Created on Thu Oct  8 08:40:11 2020
 #new repisitory 
 
 def func(a, b):
-    return a + b
+    return a * b
+
 
     
